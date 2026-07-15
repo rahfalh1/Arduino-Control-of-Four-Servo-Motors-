@@ -6,6 +6,10 @@ This project demonstrates how to control four servo motors simultaneously using 
 
 The project was created and tested using Tinkercad Circuits to simulate servo motor control and demonstrate basic Arduino programming concepts.
 
+## Circuit Preview
+
+![Arduino Servo Circuit](circuit.png)
+
 ## Components
 
 - Arduino Uno
