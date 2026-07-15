@@ -8,7 +8,7 @@ The project was created and tested using Tinkercad Circuits to simulate servo mo
 
 ## Circuit Preview
 
-![Arduino Servo Circuit](Circuit .png)
+![Arduino Servo Circuit](Circuit .PNG)
 
 ## Components
 
