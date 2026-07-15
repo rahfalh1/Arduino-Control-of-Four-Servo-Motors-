@@ -31,7 +31,7 @@ The project was created and tested using Tinkercad Circuits to simulate servo mo
 ## Project Files
 
 - `Servo_Motor_Control.ino` – Arduino source code.
-
+- `Circuit.PNG` – Screenshot of the Tinkercad circuit.
 - `Demo.mov` – Simulation demonstration video.
 
   ## Demonstration
